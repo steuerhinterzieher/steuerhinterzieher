@@ -1,4 +1,4 @@
-<h1 align="center">hi steuerhinterzieher</h1>
+<h1 align="center"></h1>
 <h3 align="center">👋 Hey! Ich bin steuerhinterzieher, ein Full-Stack-Entwickler</h3>
 
 - 🌱 I’m currently learning **Openshift**
